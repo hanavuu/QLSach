@@ -1,0 +1,950 @@
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\ApplicationInsights.config
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\WebBanSach.dll.config
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\WebBanSach.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\WebBanSach.pdb
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\csc.exe
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\csc.exe.config
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\csc.rsp
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\csi.exe
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\csi.exe.config
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\csi.rsp
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.AppContext.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Collections.Immutable.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Console.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.Process.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.IO.Compression.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.IO.Pipes.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Security.AccessControl.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Security.Claims.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Security.Principal.Windows.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Threading.Thread.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.ValueTuple.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\vbc.exe
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\vbc.exe.config
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\vbc.rsp
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe.config
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Antlr3.Runtime.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Microsoft.AI.Agent.Intercept.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Newtonsoft.Json.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\System.Web.Helpers.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\System.Web.Mvc.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\System.Web.Optimization.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\System.Web.Razor.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\System.Web.WebPages.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\WebGrease.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\System.Web.Helpers.xml
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\System.Web.Mvc.xml
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\System.Web.Optimization.xml
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\System.Web.Razor.xml
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\System.Web.WebPages.xml
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.xml
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Antlr3.Runtime.pdb
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Newtonsoft.Json.xml
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.xml
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.xml
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.xml
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.xml
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csprojResolveAssemblyReference.cache
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CoreCompileInputs.cache
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CopyComplete
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\obj\Debug\WebBanSach.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\obj\Debug\WebBanSach.pdb
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\PagedList.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\PagedList.Mvc.dll
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\PagedList.xml
+C:\co nguyen\4-4\xuan\WebBanSach\WebBanSach\bin\PagedList.Mvc.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CoreCompileInputs.cache
+C:\co nguyen\4-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.pdb
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\ApplicationInsights.config
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\WebBanSach.dll.config
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\WebBanSach.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\WebBanSach.pdb
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\csc.exe
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\csc.exe.config
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\csc.rsp
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\csi.exe
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\csi.exe.config
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\csi.rsp
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.AppContext.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Collections.Immutable.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Console.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.Process.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.Compression.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.Pipes.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.AccessControl.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Claims.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Principal.Windows.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Threading.Thread.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.ValueTuple.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\vbc.exe
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\vbc.exe.config
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\vbc.rsp
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe.config
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Antlr3.Runtime.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Agent.Intercept.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Newtonsoft.Json.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\PagedList.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\PagedList.Mvc.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\System.Web.Helpers.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\System.Web.Mvc.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\System.Web.Optimization.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\System.Web.Razor.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\WebGrease.dll
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\PagedList.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\PagedList.Mvc.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\System.Web.Helpers.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\System.Web.Mvc.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\System.Web.Optimization.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\System.Web.Razor.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Antlr3.Runtime.pdb
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Newtonsoft.Json.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.xml
+C:\co nguyen\4-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CopyComplete
+C:\co nguyen\4-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csprojResolveAssemblyReference.cache
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\ApplicationInsights.config
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\WebBanSach.dll.config
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\WebBanSach.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\WebBanSach.pdb
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\csc.exe
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\csc.exe.config
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\csc.rsp
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\csi.exe
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\csi.exe.config
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\csi.rsp
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.AppContext.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Collections.Immutable.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Console.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.Process.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.Compression.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.Pipes.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.AccessControl.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Claims.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Principal.Windows.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Threading.Thread.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.ValueTuple.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\vbc.exe
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\vbc.exe.config
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\vbc.rsp
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe.config
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Antlr3.Runtime.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Agent.Intercept.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Newtonsoft.Json.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\PagedList.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\PagedList.Mvc.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\System.Web.Helpers.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\System.Web.Mvc.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\System.Web.Optimization.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\System.Web.Razor.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\WebGrease.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\PagedList.xml
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\PagedList.Mvc.xml
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\System.Web.Helpers.xml
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\System.Web.Mvc.xml
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\System.Web.Optimization.xml
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\System.Web.Razor.xml
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.xml
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.xml
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Antlr3.Runtime.pdb
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Newtonsoft.Json.xml
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.xml
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.xml
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.xml
+C:\co nguyen\12-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.xml
+C:\co nguyen\12-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csprojResolveAssemblyReference.cache
+C:\co nguyen\12-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CoreCompileInputs.cache
+C:\co nguyen\12-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CopyComplete
+C:\co nguyen\12-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.dll
+C:\co nguyen\12-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.pdb
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\ApplicationInsights.config
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\WebBanSach.dll.config
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\WebBanSach.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\WebBanSach.pdb
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\csc.exe
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\csc.exe.config
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\csc.rsp
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\csi.exe
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\csi.exe.config
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\csi.rsp
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.AppContext.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Collections.Immutable.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Console.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.Process.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.Compression.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.Pipes.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.AccessControl.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Claims.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Principal.Windows.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Threading.Thread.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.ValueTuple.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\vbc.exe
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\vbc.exe.config
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\vbc.rsp
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe.config
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Antlr3.Runtime.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Agent.Intercept.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Newtonsoft.Json.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\PagedList.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\PagedList.Mvc.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\System.Web.Helpers.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\System.Web.Mvc.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\System.Web.Optimization.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\System.Web.Razor.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\WebGrease.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\PagedList.xml
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\PagedList.Mvc.xml
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\System.Web.Helpers.xml
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\System.Web.Mvc.xml
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\System.Web.Optimization.xml
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\System.Web.Razor.xml
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.xml
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.xml
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Antlr3.Runtime.pdb
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Newtonsoft.Json.xml
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.xml
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.xml
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.xml
+C:\co nguyen\13-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.xml
+C:\co nguyen\13-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csprojResolveAssemblyReference.cache
+C:\co nguyen\13-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CoreCompileInputs.cache
+C:\co nguyen\13-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CopyComplete
+C:\co nguyen\13-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.dll
+C:\co nguyen\13-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.pdb
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\ApplicationInsights.config
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\WebBanSach.dll.config
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\WebBanSach.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\WebBanSach.pdb
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\csc.exe
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\csc.exe.config
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\csc.rsp
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\csi.exe
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\csi.exe.config
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\csi.rsp
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.AppContext.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Collections.Immutable.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Console.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.Process.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.Compression.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.Pipes.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.AccessControl.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Claims.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Principal.Windows.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Threading.Thread.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.ValueTuple.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\vbc.exe
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\vbc.exe.config
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\vbc.rsp
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe.config
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Antlr3.Runtime.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Agent.Intercept.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Newtonsoft.Json.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\PagedList.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\PagedList.Mvc.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\System.Web.Helpers.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\System.Web.Mvc.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\System.Web.Optimization.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\System.Web.Razor.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\WebGrease.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\PagedList.xml
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\PagedList.Mvc.xml
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\System.Web.Helpers.xml
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\System.Web.Mvc.xml
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\System.Web.Optimization.xml
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\System.Web.Razor.xml
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.xml
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.xml
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Antlr3.Runtime.pdb
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Newtonsoft.Json.xml
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.xml
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.xml
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.xml
+C:\co nguyen\14-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.xml
+C:\co nguyen\14-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csprojResolveAssemblyReference.cache
+C:\co nguyen\14-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CoreCompileInputs.cache
+C:\co nguyen\14-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CopyComplete
+C:\co nguyen\14-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.dll
+C:\co nguyen\14-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.pdb
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\ApplicationInsights.config
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\WebBanSach.dll.config
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\WebBanSach.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\WebBanSach.pdb
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\csc.exe
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\csc.exe.config
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\csc.rsp
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\csi.exe
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\csi.exe.config
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\csi.rsp
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.AppContext.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Collections.Immutable.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Console.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.Process.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.Compression.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.Pipes.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.AccessControl.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Claims.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Principal.Windows.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Threading.Thread.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.ValueTuple.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\vbc.exe
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\vbc.exe.config
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\vbc.rsp
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe.config
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Antlr3.Runtime.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Agent.Intercept.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Newtonsoft.Json.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\PagedList.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\PagedList.Mvc.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\System.Web.Helpers.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\System.Web.Mvc.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\System.Web.Optimization.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\System.Web.Razor.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\WebGrease.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\PagedList.xml
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\PagedList.Mvc.xml
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\System.Web.Helpers.xml
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\System.Web.Mvc.xml
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\System.Web.Optimization.xml
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\System.Web.Razor.xml
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.xml
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.xml
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Antlr3.Runtime.pdb
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Newtonsoft.Json.xml
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.xml
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.xml
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.xml
+C:\co nguyen\26-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.xml
+C:\co nguyen\26-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csprojResolveAssemblyReference.cache
+C:\co nguyen\26-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CoreCompileInputs.cache
+C:\co nguyen\26-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CopyComplete
+C:\co nguyen\26-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.dll
+C:\co nguyen\26-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.pdb
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\ApplicationInsights.config
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\WebBanSach.dll.config
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\WebBanSach.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\WebBanSach.pdb
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\csc.exe
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\csc.exe.config
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\csc.rsp
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\csi.exe
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\csi.exe.config
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\csi.rsp
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.AppContext.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Collections.Immutable.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Console.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.Process.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.Compression.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.IO.Pipes.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.AccessControl.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Claims.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Security.Principal.Windows.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Threading.Thread.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.ValueTuple.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\vbc.exe
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\vbc.exe.config
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\vbc.rsp
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe.config
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Antlr3.Runtime.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Agent.Intercept.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Newtonsoft.Json.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\PagedList.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\PagedList.Mvc.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\System.Web.Helpers.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\System.Web.Mvc.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\System.Web.Optimization.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\System.Web.Razor.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\WebGrease.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\PagedList.xml
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\PagedList.Mvc.xml
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\System.Web.Helpers.xml
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\System.Web.Mvc.xml
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\System.Web.Optimization.xml
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\System.Web.Razor.xml
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.xml
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.xml
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Antlr3.Runtime.pdb
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Newtonsoft.Json.xml
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.xml
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.xml
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.xml
+C:\co nguyen\28-4\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.xml
+C:\co nguyen\28-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csprojResolveAssemblyReference.cache
+C:\co nguyen\28-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CoreCompileInputs.cache
+C:\co nguyen\28-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CopyComplete
+C:\co nguyen\28-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.dll
+C:\co nguyen\28-4\WebBanSach\WebBanSach\obj\Debug\WebBanSach.pdb
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\ApplicationInsights.config
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\WebBanSach.dll.config
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\WebBanSach.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\WebBanSach.pdb
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\csc.exe
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\csc.exe.config
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\csc.rsp
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\csi.exe
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\csi.exe.config
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\csi.rsp
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.AppContext.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Collections.Immutable.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Console.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.Process.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.IO.Compression.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.IO.Pipes.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Security.AccessControl.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Security.Claims.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Security.Principal.Windows.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Threading.Thread.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.ValueTuple.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\vbc.exe
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\vbc.exe.config
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\vbc.rsp
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe.config
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Antlr3.Runtime.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Microsoft.AI.Agent.Intercept.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Newtonsoft.Json.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\PagedList.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\PagedList.Mvc.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\System.Web.Helpers.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\System.Web.Mvc.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\System.Web.Optimization.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\System.Web.Razor.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\System.Web.WebPages.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\WebGrease.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\PagedList.xml
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\PagedList.Mvc.xml
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\System.Web.Helpers.xml
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\System.Web.Mvc.xml
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\System.Web.Optimization.xml
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\System.Web.Razor.xml
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\System.Web.WebPages.xml
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.xml
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Antlr3.Runtime.pdb
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Newtonsoft.Json.xml
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.xml
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.xml
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.xml
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.xml
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csprojResolveAssemblyReference.cache
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CoreCompileInputs.cache
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CopyComplete
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\obj\Debug\WebBanSach.dll
+C:\co nguyen\28-4 - Copy\WebBanSach\WebBanSach\obj\Debug\WebBanSach.pdb
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\ApplicationInsights.config
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\WebBanSach.dll.config
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\WebBanSach.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\WebBanSach.pdb
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\csc.exe
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\csc.exe.config
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\csc.rsp
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\csi.exe
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\csi.exe.config
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\csi.rsp
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.AppContext.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Collections.Immutable.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Console.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.Process.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.IO.Compression.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.IO.Pipes.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Security.AccessControl.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Security.Claims.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Security.Principal.Windows.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Threading.Thread.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.ValueTuple.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\vbc.exe
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\vbc.exe.config
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\vbc.rsp
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe.config
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Antlr3.Runtime.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Microsoft.AI.Agent.Intercept.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Newtonsoft.Json.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\PagedList.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\PagedList.Mvc.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\System.Web.Helpers.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\System.Web.Mvc.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\System.Web.Optimization.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\System.Web.Razor.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\System.Web.WebPages.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\WebGrease.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\PagedList.xml
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\PagedList.Mvc.xml
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\System.Web.Helpers.xml
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\System.Web.Mvc.xml
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\System.Web.Optimization.xml
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\System.Web.Razor.xml
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\System.Web.WebPages.xml
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.xml
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Antlr3.Runtime.pdb
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Newtonsoft.Json.xml
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.xml
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.xml
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.xml
+C:\co nguyen\5-5\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.xml
+C:\co nguyen\5-5\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csprojResolveAssemblyReference.cache
+C:\co nguyen\5-5\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CoreCompileInputs.cache
+C:\co nguyen\5-5\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CopyComplete
+C:\co nguyen\5-5\WebBanSach\WebBanSach\obj\Debug\WebBanSach.dll
+C:\co nguyen\5-5\WebBanSach\WebBanSach\obj\Debug\WebBanSach.pdb
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\ApplicationInsights.config
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\WebBanSach.dll.config
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\WebBanSach.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\WebBanSach.pdb
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\csc.exe
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\csc.exe.config
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\csc.rsp
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\csi.exe
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\csi.exe.config
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\csi.rsp
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.AppContext.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Collections.Immutable.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Console.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.Process.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.IO.Compression.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.IO.Pipes.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Security.AccessControl.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Security.Claims.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Security.Principal.Windows.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Threading.Thread.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.ValueTuple.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\vbc.exe
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\vbc.exe.config
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\vbc.rsp
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\roslyn\VBCSCompiler.exe.config
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Antlr3.Runtime.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Microsoft.AI.Agent.Intercept.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Newtonsoft.Json.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\PagedList.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\PagedList.Mvc.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\System.Web.Helpers.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\System.Web.Mvc.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\System.Web.Optimization.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\System.Web.Razor.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\System.Web.WebPages.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\WebGrease.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\PagedList.xml
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\PagedList.Mvc.xml
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\System.Web.Helpers.xml
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\System.Web.Mvc.xml
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\System.Web.Optimization.xml
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\System.Web.Razor.xml
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\System.Web.WebPages.xml
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\System.Web.WebPages.Razor.xml
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Antlr3.Runtime.pdb
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Newtonsoft.Json.xml
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Microsoft.ApplicationInsights.xml
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Microsoft.AI.DependencyCollector.xml
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Microsoft.AI.WindowsServer.xml
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\bin\Microsoft.AI.Web.xml
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CoreCompileInputs.cache
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csproj.CopyComplete
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\obj\Debug\WebBanSach.dll
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\obj\Debug\WebBanSach.pdb
+C:\co nguyen\5-5 tt\WebBanSach\WebBanSach\obj\Debug\WebBanSach.csprojResolveAssemblyReference.cache

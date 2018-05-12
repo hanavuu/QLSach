@@ -1,0 +1,86 @@
+﻿@model IEnumerable<WebBanSach.Models.SACH>
+@{
+    ViewBag.Title = "SPTheoNXB";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2 class="title text-center">SÁCH THEO NHÀ XUẤT BẢN</h2>
+<div class="row">
+    @foreach (var sach in Model)
+    {
+        <div class="col-sm-4 col-lg-4 col-md-4">
+
+            <div class="thumbnail" style="height:350px">
+                <a href="@Url.Action("Details", "BookStore", new { id = sach.Masach })">
+                    <img alt="@sach.Tensach" src="~/Hinhsanpham/@sach.Hinhminhhoa" width="150" />
+                    <div>
+                        <br />
+                        <h4 style="text-align:center">
+                            @sach.Tensach
+                        </h4>
+                        <p></p>
+                    </div>
+                    <div class="ratings">
+                        <p class="pull-right">15 reviews</p>
+                        <p>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                        </p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    }
+
+</div>
+
+
+
+@*@foreach (var sach in Model)
+    {
+        <div class="col-sm-4">
+            <div class="product-image-wrapper">
+                <div class="single-products">
+                    <a href="@Url.Action("Details", "BookStore", new { id = sach.Masach })"></a>
+                    <div class="productinfo text-center">
+                        <img src="~/Hinhsanpham/@sach.Hinhminhhoa" style="width:150px" alt="" />
+                        <h2>@sach.Dongia</h2>
+                        <p>@sach.Tensach</p>
+                        <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                    </div>
+                    <div class="ratings">
+                        <p class="pull-right">15 reviews</p>
+                        <p>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                        </p>
+                    </div>
+                    <div class="product-overlay">
+                        <div class="overlay-content">
+                            <h2>@sach.Dongia</h2>
+                            <p>@sach.Tensach</p>
+                            <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="choose">
+                    <ul class="nav nav-pills nav-justified">
+                        <li><a href="#"><i class="fa fa-plus-square"></i>Add to wishlist</a></li>
+                        <li><a href="#"><i class="fa fa-plus-square"></i>Add to compare</a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    }*@
+
+
+
+
+

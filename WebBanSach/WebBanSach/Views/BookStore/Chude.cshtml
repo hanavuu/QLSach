@@ -1,0 +1,12 @@
+﻿@model IEnumerable<WebBanSach.Models.CHUDE>
+@*<p class="lead"> CHỦ ĐỀ </p>*@
+<div>
+    @foreach (var item in Model)
+    {
+            <a href="@Url.Action("SPTheochude", "BookStore", new{id= item.MaCD})">
+                @item.TenChuDe
+            </a>
+            <br />
+            <br />
+    }
+</div>
